@@ -1,6 +1,16 @@
 
 # Installazione 
 
+## WINDOWS
+
+Lanciare da amministratore il file 
+
+        install.bat
+        
+
+
+## MAC OS
+
 - Installare i requirement, nel caso in cui "pip" sia installato
 
 
